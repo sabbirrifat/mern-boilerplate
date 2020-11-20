@@ -1,0 +1,9 @@
+/node_modules
+/build
+
+.DS_STORE
+
+npm-debug.log*
+
+.vscode
+
